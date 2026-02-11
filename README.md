@@ -3,6 +3,9 @@
 LScasino is a lightweight, browser-based casino game that runs locally on your machine. It simulates a simple casino environment with classic games, allowing you to play, test mechanics, or experiment with game logic without needing a backend server or online deployment.
 
 Features:
+
+-Open Source (simply look at the code in the files)
+
 -Runs entirely on localhost
 
 -Simple and responsive web interface
